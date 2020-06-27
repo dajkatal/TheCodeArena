@@ -1,0 +1,10 @@
+{
+  "name": "NameOfTheCodingProblem",
+  "website": "NameOfTheWebsite",
+  "difficulty": "RatingOrKyu",
+  "link": "LinkToProblem",
+  "test_cases": [[6, 3], [8, 2], [10, 3], [12, 4], [12, 5]],
+  "solution_python": "LinkToPythonSolution",
+  "solution_js": "LinkToJSSolution",
+  "solution_c++": "LinkToC++Solution"
+}
