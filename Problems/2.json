@@ -1,0 +1,11 @@
+{
+  "name": "Exes and Ohs",
+  "website": "codewars",
+  "difficulty": "7",
+  "link": "https://www.codewars.com/kata/55908aad6620c066bc00002a",
+  "description": "DescriptionOfProblem",
+  "sample_cases" : [["xo"], ["xo0"], ["xxxoo"]],
+  "sample_solutions": [[1], [1], [0]],
+  "test_cases": [["xo"], ["XO"], ["xo0"], ["xxxoo"], [""], ["xxxxxoooxooo"], ["xxxxxoooXooo"], ["abcdefghijklmnopqrstuvwxyz"], ["xxrQdExhobxLxoxCGxxxoxoxoxkANoomoxxofoxxJp"], ["xELxdxrhxkxGxJooxooxxbxmNoxoxQAfoooxCopxxooox"], ["JxfxohookCxdxoLGbxExoooxooAxoxoxx"], ["rfALGQxExxxxxxxhxCkNxxxxobxompxooJoodox"], ["xxxxCoooxoxxxLooEoxxoooxyoxGoxtxoxodJooNAoxZxxmQxpoxUvooxhboxrSWoxkfo"], ["xCrxxNxdLGJxAxQxtxbxkhfxooxxoxxxpoEoovxxmxooUoooxxSo"], ["LkmxxfxAxxxxbChxdxGoEoJoxxx"], ["NAxxooxQxxoobxxoUxoxxxoxLxooooEmdCxxxokxxtvrhJSfxooxpGo"], ["xfdhxxEkGJxCmpLxxxbxoxoxxoANxxox"], ["AfxxxxkxhxCGExxmoobodxxxxpJNooxxL"], ["xxkxdbExxJooxCooxxLoxomfxoGxAhooxo"], ["xxExxxxxxUSxQbxxCoooNooxxftodvoxLxoWJooxxxkrGxoooxyxpohooAoxom"], ["WpooooxxoxJxooGxoxmyxfxxoxooxxvrNSxxoxoCxohxokxAxQoEdxZooUtoxooxxbooL"], ["oxdLoooxxoxvNoWoSootxxCoxoxoxrxmohGxxxoxoxxoopEAxxxfooJQoUoxkxb"], ["boooxoGooAoxoxxxJQohxomooxxCNoxxpkodxLxxxxoEf"], ["xxhxxxmxExCxdJAxfbGkxxxLo"], ["xCxGoEfJoxbxhmxokooNxoLxxooxoxdAoxxpxox"], ["mXXXXXQXXXoLrXhfooGboCJoXoNoXXEXoXXopdXoAooSoXkoooo"], ["ooxoooxxoxoxxxxooxxxoooxooooxoxxxoooxoxxoooxAxxxxox"], ["xSmLxxxxdxAxypxkxvooxxxxEQhoooGxxxCrootxWobUxoxoNooooxJofxox"]],
+  "test_solutions": [[1], [1], [1], [0], [1], [1], [1], [1], [0], [0], [1], [0], [1], [0], [0], [0], [0], [0], [0], [0], [1], [1], [1], [0], [0], [1], [1], [0]]
+}
