@@ -4,7 +4,7 @@
   "difficulty": "RatingOrKyu",
   "link": "LinkToProblem",
   "description": "DescriptionOfProblem",
-  "sample_cases" : [[[0, 1], [4, 9], [2, 6], [-5, -4]],
+  "sample_cases" : [[0, 1], [4, 9], [2, 6], [-5, -4]],
   "sample_solutions": [],
   "test_cases": [[6, 3], [8, 2], [10, 3], [12, 4], [12, 5]],
   "test_solutions": [],
