@@ -1,0 +1,11 @@
+{
+  "name": "Decode the Morse code",
+  "website": "codewars",
+  "difficulty": "6",
+  "link": "https://www.codewars.com/kata/54b724efac3d5402db00065e",
+  "description": "DescriptionOfProblem",
+  "sample_cases" : [[".... . -.--   .--- ..- -.. ."]],
+  "sample_solutions": [["HEY JUDE"]],
+  "test_cases": [[".... . -.--   .--- ..- -.. ."], [".-"], ["."], [".."], [". ."], [".   ."], ["...---..."], ["... --- ..."], ["...   ---   ..."], [" . "], ["   .   . "], ["      ...---... -.-.--   - .... .   --.- ..- .. -.-. -.-   -... .-. --- .-- -.   ..-. --- -..-   .--- ..- -- .--. ...   --- ...- . .-.   - .... .   .-.. .- --.. -.--   -.. --- --. .-.-.-  "]],
+  "test_solutions": [["HEY JUDE"], ["A"], ["E"], ["I"], ["EE"], ["E E"], ["SOS"], ["SOS"], ["S O S"], ["E"], ["E E"], ["SOS! THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."]]
+}
